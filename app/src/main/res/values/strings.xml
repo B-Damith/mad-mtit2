@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gitso</string>
+    <string name="title_activity_repo_list">Repositories</string>
+    <string name="title_activity_issue_list">Issues</string>
+</resources>
